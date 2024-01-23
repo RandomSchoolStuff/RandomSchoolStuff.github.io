@@ -1,0 +1,21 @@
+.body {
+	background:linear-gradient(rgb(197, 32, 87),rgb(102, 33, 56))
+}
+
+p.dwld-links {
+	text-decoration: none;
+	color:black;
+	border:solid violet 2px;
+	border-radius: 5px;
+	margin: 0 25% 0 25%;
+	background:linear-gradient(violet,purple)
+}
+
+a.dwld-links {
+	text-decoration: none;
+	color:black;
+	border:solid darkmagenta 2px;
+	background-color: darkorchid;
+	margin:0 -2px 0 -2px;
+	border-radius: 4px;
+}
